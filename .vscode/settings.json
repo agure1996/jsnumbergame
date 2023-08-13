@@ -1,0 +1,6 @@
+{
+    "[javascript]": {
+        "emmet.showAbbreviationSuggestions": true
+    },
+    "livePreview.defaultPreviewPath": "/index.html"
+}
